@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlarMe</string>
+    <string name="log_in_using_your_feide_username_and_password">Log in using your Feide username and password.</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password:</string>
+    <string name="username">Username:</string>
+</resources>
